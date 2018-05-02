@@ -41,21 +41,6 @@
       "id": 7,
       "address": "ул. Дальняя 129/2 кв. 329",
       "devices_count": 4
-    },
-    {
-      "id": 8,
-      "address": "ул. Дальняя 130 кв. 19",
-      "devices_count": 4
-    },
-    {
-      "id": 9,
-      "address": "ул. маршала Пересыпкина кв. 329",
-      "devices_count": 4
-    },
-    {
-      "id": 10,
-      "address": "ул. маршала Пересыпкина кв. 329",
-      "devices_count": 4
     }
   ],
   "readiagsDevices": [
